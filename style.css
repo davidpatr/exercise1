@@ -1,0 +1,49 @@
+ .red-text {
+    color: red;
+  }
+
+  h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style:unset;
+    font-size:90%;
+  }
+  
+
+  p {
+    font-size: 16px;
+    font-family: monospace,Arial, Helvetica, sans-serif;
+    color: darkgoldenrod;
+    text-transform: capitalize;
+  }
+  /* for photo border */
+
+  .thick-border {
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 80%;
+    border-color:skyblue;
+  }
+
+
+ .smaller-image {
+    width: 100px;
+  }
+/* for photo border */   
+
+ 
+
+#foo{
+ color:orangered;
+  border-radius: 30px ;
+}
+
+/*for background image*/
+html{
+background-image:url(bg.jpg);
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+/*for background image*/
+
